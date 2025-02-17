@@ -68,6 +68,29 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ---
 
+### 🖼 **Rolling 30-Day Volatility of Bank Stocks**
+📌 **Measuring risk levels over time for each bank.**  
+![Rolling 30-Day Volatility](Rolling_30_day_volatility.png)
+
+**Findings:**  
+✅ **Volatility spiked massively during the COVID-19 crisis (2020)**.  
+✅ **ING Group shows the highest volatility throughout** the analyzed period.  
+✅ **Deutsche Bank has the lowest volatility**, making it a safer investment.  
+✅ **Volatility tends to mean-revert but remains elevated after 2020.**
+
+---
+
+### 🖼 **Cumulative Log Returns: Performance of Banks**
+📌 **Comparing long-term cumulative returns of each bank.**  
+![Cumulative Log Returns](Cumulative_Log_Returns.png)
+
+**Findings:**  
+✅ **Deutsche Bank shows the highest long-term growth**.  
+✅ **KBC Group and ABN AMRO exhibit strong performance** but lower than Deutsche Bank.  
+✅ **ING Group underperforms significantly**, struggling to recover.  
+✅ **The 2020 market crash had a major impact on all banks, with varied recovery rates.** 
+
+---
 ## 3️⃣ **Risk Analysis: Value-at-Risk (VaR)**
 📌 **[Notebook: Risk_Analysis.ipynb](./Risk_Analysis.ipynb) – VaR Section**  
 
