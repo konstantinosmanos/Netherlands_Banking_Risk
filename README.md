@@ -48,7 +48,7 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ### 🖼 **Distribution of Log Returns**
 📌 **Visualizing return distributions to assess volatility & risk.**  
-![Log Returns](./Images/Distribution_log_returns.png)
+![Log Returns](Distribution_log_returns.png)
 
 **Findings:**  
 ✅ Most return distributions are **close to normal** but exhibit **fat tails**.  
@@ -59,7 +59,7 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ### 🖼 **Correlation Matrix of Bank Stock Returns**
 📌 **How similar are the banks' price movements?**  
-![Correlation Matrix](./Images/Correlation_matrix.png)
+![Correlation Matrix](Correlation_matrix.png)
 
 **Findings:**  
 ✅ **NN Group & ABN AMRO** are highly correlated (0.75), meaning they react similarly to market changes.  
@@ -73,7 +73,7 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ### 🖼 **Value-at-Risk (VaR) Distribution**
 📌 **Historical, Parametric, and Monte Carlo VaR calculations.**  
-![VaR Analysis](./Images/VaR_Analysis.png)
+![VaR Analysis](VaR_Analysis.png)
 
 | Bank         | Historical VaR | Parametric VaR | Monte Carlo VaR |
 |-------------|---------------|---------------|-----------------|
@@ -95,7 +95,7 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ### 🖼 **Expected Shortfall (ES) Distribution**
 📌 **Analyzing worst-case scenario losses.**  
-![Expected Shortfall](./Images/Expected_Shortfall.png)
+![Expected Shortfall](Expected_Shortfall.png)
 
 | Bank         | Historical ES | Parametric ES | Monte Carlo ES |
 |-------------|--------------|--------------|----------------|
@@ -114,13 +114,13 @@ This project examines the **market risk** of five European banks using **Yahoo F
 📌 **[Notebook: Risk_Analysis.ipynb](./Risk_Analysis.ipynb) – Stress Testing Section**  
 
 ### 🖼 **Stock Prices During Crisis**
-![Stock Prices COVID-19](./Images/Stock_prices_Covid_19.png)
+![Stock Prices COVID-19](Stock_prices_Covid_19.png)
 
 ### 🖼 **Volatility Spikes During Crisis**
-![Rolling Volatility](./Images/Rolling_10_day_volatility.png)
+![Rolling Volatility](Rolling_10_day_volatility.png)
 
 ### 🖼 **Drawdown Analysis**
-![Drawdown COVID-19](./Images/Drawdown_COVID_19.png)
+![Drawdown COVID-19](Drawdown_COVID_19_Crisis.png)
 
 ✅ **ABN AMRO suffered the worst drawdown (-91.4%)**.  
 ✅ **Deutsche Bank had the lowest drawdown (-62.1%)**, showing resilience.  
@@ -132,7 +132,7 @@ This project examines the **market risk** of five European banks using **Yahoo F
 📌 **[Notebook: GARCH(1,1).ipynb](./GARCH(1,1).ipynb)**  
 
 ### 🖼 **30-Day Volatility Forecast**
-![GARCH Forecast](./Images/GARCH_Volatility_Forecast.png)
+![GARCH Forecast](30-Day_Volatility_Forecast_(GARCH_Model).png)
 
 ✅ **NN Group’s volatility is expected to decline.**  
 ✅ **ING Group & KBC Group show increasing risk.**  
