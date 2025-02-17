@@ -13,8 +13,6 @@ This project examines the **market risk** of five European banks using **Yahoo F
 ✅ **KBC Group (Belgium)**  
 ✅ **Deutsche Bank (Germany)**  
 
-📌 **[Full Risk Analysis Notebook](./Risk_Analysis.ipynb)**  
-
 ---
 
 ## 📂 **Project Structure**
