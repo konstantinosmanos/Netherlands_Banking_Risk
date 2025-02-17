@@ -161,6 +161,54 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ---
 
+## 📈 Investment Considerations  
+This analysis highlights key **risk factors and investment potential** for Dutch and European banks.  
+
+✅ **Dutch Banks (NN Group, ING, ABN AMRO) Are Highly Correlated**  
+- Their stock prices move similarly, limiting **diversification benefits** within the Dutch market.  
+- Investing in only Dutch banks may **increase exposure to systemic risk** in the EU.  
+
+✅ **Diversification with Deutsche Bank (Germany) & KBC Group (Belgium)**  
+- **Deutsche Bank has lower correlation**, making it a **good hedge** against Dutch market risks.  
+- **KBC Group shows higher volatility & returns**, appealing to **growth-focused investors**.  
+
+✅ **Macroeconomic Factors Impacting Dutch Banks**  
+- Strong dependence on **EU policies, interest rates, and regulatory changes**.  
+- Exposure to **Eurozone economic trends**, making them sensitive to financial crises.  
+
+📌 **Investment Strategy:**  
+🔹 **Low-Risk Approach:** Focus on **NN Group & Deutsche Bank** for stability.  
+🔹 **High-Risk, High-Return:** Consider **KBC Group & ING Group** for potential growth.  
+🔹 **Balanced Portfolio:** Combine Dutch banks with **non-EU financial assets** for risk mitigation.  
+
+---
+
+## ⚠️ Limitations & Future Improvements  
+While this analysis provides valuable insights, **certain limitations exist**:  
+
+✅ **Limited Scope of Risk Metrics**  
+- The focus is on **stock price risk**, excluding **profitability, debt levels, or macroeconomic indicators**.  
+- Future research should include **Return on Equity (ROE), Non-Performing Loans (NPLs), and Interest Rate Sensitivity**.  
+
+✅ **Model Assumptions & Enhancements**  
+- **VaR & Expected Shortfall assume normality**, which may **underestimate extreme risks**.  
+- **GARCH captures volatility clustering**, but **external shocks (crises) require additional stress testing**.  
+- Future improvements could incorporate **Extreme Value Theory (EVT) or Machine Learning for risk forecasting**.  
+
+✅ **Stress Testing Beyond COVID-19**  
+- This project assesses **COVID-19's impact**, but future studies should analyze:  
+  - **2008 Global Financial Crisis**, **2022 Inflation Shock**, and **interest rate hikes**.  
+  - **EU regulatory changes** and their effect on banking risk.  
+
+📌 **Next Steps:**  
+🔹 Expand the dataset to include **more European banks** for broader insights.  
+🔹 Implement **alternative risk models** (Monte Carlo simulations, AI-based forecasting).  
+🔹 Conduct **multi-scenario stress tests** for different economic conditions.  
+
+This project lays a **strong foundation for banking risk analysis**, but further enhancements can improve accuracy and **inform better investment decisions**. 🚀  
+
+---
+
 ## 🛠 **Technologies Used**
 - **Python**: Pandas, Statsmodels, Matplotlib, Seaborn  
 - **Risk Modeling**: VaR, Expected Shortfall, Monte Carlo Simulations  
