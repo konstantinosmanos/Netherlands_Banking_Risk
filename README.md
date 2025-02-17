@@ -34,7 +34,7 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ### 🖼 **Stock Price Trends (2015-2025)**
 📌 **Stock price movements of five banks over time.**  
-![Stock Price Trends](./Images/Stock_price_trends.png)
+![Stock Price Trends](https://raw.githubusercontent.com/konstantinosmanos/Netherlands_Banking_Risk/main/Stock_Price_Trends.png)
 
 **Findings:**  
 ✅ **KBC Group** has the highest stock value and volatility.  
