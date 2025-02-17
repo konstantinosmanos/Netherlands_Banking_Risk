@@ -169,4 +169,10 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ---
 
-📌 **By Konstantinos Manos**
+## 📬 **Contact & Connect**
+📩 [Email Me](mailto:manoskonstantinos960@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/konstantinosmanos)  
+🖥 [GitHub](https://github.com/konstantinosmanos)  
+
+🚀 **Like this project? Give it a ⭐ on GitHub!**
+
