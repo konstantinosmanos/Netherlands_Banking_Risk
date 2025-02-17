@@ -28,7 +28,7 @@ This project is structured as follows:
 ## 🔹 **Stock Price Trends (2015-2025)**
 This visualization tracks the stock price movement of selected banks.
 
-![Stock Price Trends](https://raw.githubusercontent.com/your_username/Netherlands_Banking_Risk/main/Stock_price_trends.png)
+![Stock Price Trends](https://raw.githubusercontent.com/your_username/Netherlands_Banking_Risk/main/Stock_price_trends.png?raw=true)
 
 ### **Key Observations:**
 - **KBC Group** had the highest stock price throughout the period.
