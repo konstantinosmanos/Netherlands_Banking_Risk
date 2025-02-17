@@ -34,7 +34,8 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ### 🖼 **Stock Price Trends (2015-2025)**
 📌 **Stock price movements of five banks over time.**  
-![Stock Price Trends](https://github.com/konstantinosmanos/Netherlands_Banking_Risk/main/Strock_price_trends.png)
+![Stock Price Trends](https://github.com/konstantinosmanos/Netherlands_Banking_Risk/main/Strock_price_trends.png?raw=true)
+
 
 
 **Findings:**  
