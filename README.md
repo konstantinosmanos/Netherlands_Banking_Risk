@@ -73,7 +73,7 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ### 🖼 **Value-at-Risk (VaR) Distribution**
 📌 **Historical, Parametric, and Monte Carlo VaR calculations.**  
-![VaR Analysis](VaR_Analysis.png)
+![VaR Analysis](VaR_Analysis_distribution_of_Returns.png)
 
 | Bank         | Historical VaR | Parametric VaR | Monte Carlo VaR |
 |-------------|---------------|---------------|-----------------|
@@ -95,7 +95,7 @@ This project examines the **market risk** of five European banks using **Yahoo F
 
 ### 🖼 **Expected Shortfall (ES) Distribution**
 📌 **Analyzing worst-case scenario losses.**  
-![Expected Shortfall](Expected_Shortfall.png)
+![Expected Shortfall](Expected_Shortfall_Analysis.png)
 
 | Bank         | Historical ES | Parametric ES | Monte Carlo ES |
 |-------------|--------------|--------------|----------------|
@@ -114,10 +114,10 @@ This project examines the **market risk** of five European banks using **Yahoo F
 📌 **[Notebook: Risk_Analysis.ipynb](./Risk_Analysis.ipynb) – Stress Testing Section**  
 
 ### 🖼 **Stock Prices During Crisis**
-![Stock Prices COVID-19](Stock_prices_Covid_19.png)
+![Stock Prices COVID-19](Stock_prices_Covid_19(Feb-Apr_2020).png)
 
 ### 🖼 **Volatility Spikes During Crisis**
-![Rolling Volatility](Rolling_10_day_volatility.png)
+![Rolling Volatility](Rolling_10_day_volatility_COVID_19_Crisis.png)
 
 ### 🖼 **Drawdown Analysis**
 ![Drawdown COVID-19](Drawdown_COVID_19_Crisis.png)
